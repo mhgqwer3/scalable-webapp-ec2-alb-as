@@ -1,2 +1,1 @@
-# scalable-webapp-ec2-alb-as
-scalable-webapp-ec2-alb-as
+#Mohamed0x AWS-Highly-Available-Application-Architecture A reference architecture demonstrating a highly available, fault-tolerant application on AWS using services like EC2, ELB, Auto Scaling, RDS Multi-AZ, and more.
